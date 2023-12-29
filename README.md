@@ -10,6 +10,7 @@ Este proyecto es un sitio web frontend desarrollado con HTML y CSS para un equip
 
 2. **Acerca de (Misión y Visión):**
    La página "Acerca de" ofrece detalles sobre la misión y visión del equipo, brindando a los visitantes una comprensión más profunda de los objetivos y valores del equipo.
+![02_About](https://github.com/rominarg/page.github.io/assets/45200064/92713320-dc48-476e-bc4d-ea5ca7f4ba93)
 
 3. **Información de Juegos:**
    La página "Información de Juegos" ofrece una agenda anual detallada de los juegos del equipo. Los usuarios pueden consultar fechas, horarios y ubicaciones de los partidos.
