@@ -57,6 +57,8 @@ body {
 .active {
     color:#000000;
     background:#5FA199;
+    border-radius: 10px;
+     width: 100px; 
 }
 
 /* Page About */
