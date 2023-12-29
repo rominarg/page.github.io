@@ -197,6 +197,91 @@ th{
     color:#5FA199;
 }
 
+body {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  /* Añadir un tamaño de fuente base para facilitar el uso de vw para tamaños de fuente relativos */
+  font-size: 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+}
+
+.menu_logo a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.menu_logo a:hover {
+  text-decoration: underline;
+}
+
+.menu {
+  display: flex;
+  gap: 20px; /* Añadir espacio entre los elementos del menú */
+}
+
+.banner-img {
+  background: url('./Assets/img/banner_image.jpg') center/cover no-repeat;
+  height: 300px; /* Ajustar según tus necesidades */
+}
+
+.title {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.content1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.image_home img {
+  width: 100%; /* Hacer que la imagen ocupe el 100% del contenedor */
+  height: auto; /* Permitir que la altura se ajuste proporcionalmente */
+}
+
+.eventos {
+  flex: 1; /* Utilizar todo el espacio disponible */
+  margin-right: 20px; /* Añadir margen a la derecha para separar de la imagen */
+}
+
+.parrafo {
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+  }
+
+  .menu {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .content1 {
+    flex-direction: column;
+  }
+
+  .eventos,
+  .image_home {
+    margin-right: 0; /* Eliminar margen derecho en dispositivos más pequeños */
+  }
+}
+
+
 
 
 
