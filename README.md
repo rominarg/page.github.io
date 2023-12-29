@@ -35,8 +35,12 @@ La página de "Contacto" permite a los visitantes ponerse en contacto con el equ
 - HTML
 - CSS
 
+## LINK al sitio web
+
+[página web](https://rominarg.github.io/page.github.io/index.html)
+
 ## Contacto
 
 Creado por: Romina Navarrete
-- Email: rominagnavarrete@gmail.com
-- WhatsApp: (https://wa.me/5492915736211)
+Email: rominagnavarrete@gmail.com
+WhatsApp: (https://wa.me/5492915736211)
