@@ -32,7 +32,11 @@ La página de "Contacto" permite a los visitantes ponerse en contacto con el equ
 
 ## Tecnologías Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
-¡Esperamos que disfrutes explorando el sitio web del equipo de hockey sobre hielo!
+## Contacto
+
+Creado por: Romina Navarrete
+- Email: rominagnavarrete@gmail.com
+- WhatsApp: (https://wa.me/5492915736211)
