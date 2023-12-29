@@ -42,6 +42,6 @@ La página de "Contacto" permite a los visitantes ponerse en contacto con el equ
 
 ## Contacto
 
-Creado por: Romina Navarrete
-Email: rominagnavarrete@gmail.com
-WhatsApp: (https://wa.me/5492915736211)
+Creado por: Romina Navarrete  
+Email: rominagnavarrete@gmail.com  
+WhatsApp: [+5492915736211](https://wa.me/5492915736211)
